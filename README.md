@@ -1,4 +1,5 @@
-# RobustArgumentMining-LREC-COLING-2024
+# RobustArgumentMining-LREC-COLING-2024 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 Code and data for the experiments reported in the paper titled "Learning Strategies for Robust Argument Mining: An Analysis of Variations in Language and Domain", to appear in LREC-COLING2024 Proceedings.
 
 ```
@@ -15,8 +16,6 @@ Code and data for the experiments reported in the paper titled "Learning Strateg
     publisher = "Language Resources Association"
 }
 ```
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
